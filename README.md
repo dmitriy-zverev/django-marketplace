@@ -36,7 +36,7 @@ puddle/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd django-learning
+   cd django-marketplace
    ```
 
 2. **Create a virtual environment**
